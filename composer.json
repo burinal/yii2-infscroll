@@ -1,0 +1,21 @@
+{
+    "name": "burinal/yii2-infscroll",
+    "description": "Infinity scroll info",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Burinal",
+            "email": "mail@burinal.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "burinal\\infscroll\\": ""
+        }
+    }
+}
